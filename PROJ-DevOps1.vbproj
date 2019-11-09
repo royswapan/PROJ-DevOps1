@@ -101,6 +101,7 @@
     <Compile Include="Class4.vb" />
     <Compile Include="Class5.vb" />
     <Compile Include="Class6.vb" />
+    <Compile Include="Class7.vb" />
     <Compile Include="Global.asax.vb">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
